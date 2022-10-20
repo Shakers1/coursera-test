@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+}
+h1 {
+	margin-bottom: 15px;
+}
+style {
+	border: 1px solid black;
+	font-family: heltvetica;
+	color: black;
+}
